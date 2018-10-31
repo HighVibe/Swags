@@ -1,0 +1,25 @@
+{
+  "name": "swags",
+  "version": "0.1.0",
+  "description": "HighVibe swags (ERC-721 non-fungible tokens)",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui Maximo (rui@highvibe.network)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/register": "^7.0.0",
+    "chai": "^4.2.0",
+    "openzeppelin-solidity": "^2.0.0",
+    "truffle-assertions": "^0.6.2"
+  },
+  "dependencies": {
+    "truffle": "^4.1.14"
+  }
+}
